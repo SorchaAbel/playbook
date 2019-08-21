@@ -32,3 +32,5 @@
 /vendor/*
 .idea/
 tmp/
+log/
+storage/
